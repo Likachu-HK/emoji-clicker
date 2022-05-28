@@ -1,0 +1,16 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  color: red;
+}
+
+h3 {
+  color: blue;
+}
+
+p {
+  color: black
+}
