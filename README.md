@@ -58,8 +58,8 @@ There's a secret in the shop
 ## Game History
 **v1.0** Game Released
 ## Future Updates
-**v1.1** Bug fix
-**v1.2** Add Auto-clicker
-**v1.3** Add settings
-**v1.4** Bug Fix
-**v2.0** Add achievements and leaderboard
+**v1.1** Bug fix  
+**v1.2** Add Auto-clicker  
+**v1.3** Add settings  
+**v1.4** Bug Fix  
+**v2.0** Add achievements and leaderboard  
