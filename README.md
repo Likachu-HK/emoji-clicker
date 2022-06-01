@@ -6,8 +6,9 @@ Emoji Clicker is a simple clicker game, players earns emojis by clicking enter k
 @Likachu-HK  
 (Only me)
 ### Game Finished?
-v1.0 : 90% -- Almost Finished  
-v1.1 : 5% -- Brainstorming
+v1.1 : 100% -- Finished  
+v1.2 : 30% -- Solving Bug
+v1.3 : 10% -- Making
 ## How To Play
 This paragraph will tell you how to play the game and the instructions of the game.
 ### Set-ups
@@ -39,7 +40,7 @@ This is useful! You will have extra emojis when you found them!
 
 #### Legendary Emojis
 **Legendary Emojis** are a great way to speedrun the game.  
-You can **68x** more emojis than normal each!
+You can get **68x** more emojis than normal each!
 
 You will have 1% chance of finding them in default.
 #### Traps
@@ -56,9 +57,9 @@ You maybe want to win this game...
 #### Tip
 There's a secret in the shop
 ## Game History
-**v1.0** Game Released
-## Future Updates
+**v1.0** Game Released  
 **v1.1** Bug fix  
+## Future Updates
 **v1.2** Add Auto-clicker  
 **v1.3** Add settings  
 **v1.4** Bug Fix  
