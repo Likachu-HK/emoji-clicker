@@ -6,9 +6,9 @@ Emoji Clicker is a simple clicker game, players earns emojis by clicking enter k
 @Likachu-HK  
 (Only me)
 ### Game Finished?
-v1.1 : 100% -- Finished  
-v1.2 : 30% -- Solving Bug
-v1.3 : 10% -- Making
+**v1.1** : 100% -- Finished  
+**v1.2** : 30% -- Solving Bug  
+**v1.3** : 10% -- Making  
 ## How To Play
 This paragraph will tell you how to play the game and the instructions of the game.
 ### Set-ups
