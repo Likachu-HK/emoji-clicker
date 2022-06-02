@@ -241,7 +241,7 @@ while True:
         print("Game Paused")
         print("Type anything to continue")
         reply = input("Reply: ")
-    if q == '6':
+    elif q == '6':
         print(color.RED + "You will lose all your progress.")
         print("Are you sure want to exit?")
         print("Type 999 to exit, anything else to cancel.")
@@ -252,7 +252,7 @@ while True:
            print(color.RESET + "Action Cancelled.")
            wait(3)
     else:
-        warn()
+        invalid()
     os.system('clear')
 
     
