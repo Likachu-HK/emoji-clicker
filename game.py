@@ -41,6 +41,8 @@ def invalid():
     print(color.RED + "Invalid Input" + color.RESET + '.')
     wait(2)
     
+print("1+1= ", 1+1) #Hi
+    
 # Game Start
 print("Hello!")
 print("Please Read the README.md before playing.")
